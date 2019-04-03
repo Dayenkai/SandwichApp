@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Welcome</string>
+    <string name="random_heading">Here is a random number between 0 ad %1d</string>
+    <string name="button_main">Send</string>
+    <string name="substract">Sub</string>
+    <string name="button_1">Button 1</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "265359181685",
+    "firebase_url": "https://foodapp-3604a.firebaseio.com",
+    "project_id": "foodapp-3604a",
+    "storage_bucket": "foodapp-3604a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265359181685:android:0e31ee10fd8419be",
+        "android_client_info": {
+          "package_name": "com.example.test_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKluZdmuYSCnwA4jc_gI5YzVjVJlpZMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265359181685-69g74u94kbkcle9nkvacria3tqnjhesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265359181685:android:99de306311392d0c",
+        "android_client_info": {
+          "package_name": "com.source.sandwich_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265359181685-1qmcvrtia9n7537sr2n755gjpk3dbn19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.source.sandwich_app",
+            "certificate_hash": "ed8b40584205d90fa493f70249cdeedcc8601c2c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKluZdmuYSCnwA4jc_gI5YzVjVJlpZMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265359181685-69g74u94kbkcle9nkvacria3tqnjhesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
